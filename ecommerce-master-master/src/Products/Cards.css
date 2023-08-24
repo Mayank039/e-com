@@ -1,0 +1,11 @@
+.img-wrapper{
+  overflow:hidden;
+}
+img.hover-zoom:hover {
+  transform: scale(1.5);
+}
+#h2{
+  font-size: 45px;
+    color: #555;
+    margin-bottom: 20px;
+}
